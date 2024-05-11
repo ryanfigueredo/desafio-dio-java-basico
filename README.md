@@ -17,9 +17,11 @@ O projeto ContaBanco é uma aplicação simples em Java que permite aos usuário
 3. Compile o código-fonte:
   ``` 
   javac ContaTerminal.java
+
 4. Execute o programa:
   ``` 
   java ContaTerminal
+  
 5. Siga as instruções exibidas no terminal para inserir os dados da conta.
 6. Após inserir todos os dados solicitados, a mensagem de boas-vindas será exibida.
 

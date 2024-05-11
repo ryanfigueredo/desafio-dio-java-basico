@@ -15,13 +15,11 @@ O projeto ContaBanco é uma aplicação simples em Java que permite aos usuário
 1. Clone este repositório para sua máquina local.
 2. Navegue até o diretório do projeto.
 3. Compile o código-fonte:
-  ``` 
-  javac ContaTerminal.java
+  ```javac ContaTerminal.java``` 
 
 4. Execute o programa:
-  ``` 
-  java ContaTerminal
-  
+  ```java ContaTerminal``` 
+
 5. Siga as instruções exibidas no terminal para inserir os dados da conta.
 6. Após inserir todos os dados solicitados, a mensagem de boas-vindas será exibida.
 
